@@ -149,9 +149,6 @@ disable = [
   "undefined-loop-variable",
   "unnecessary-lambda",
   "unspecified-encoding",
-  "unused-argument",
-  "unused-import",
-  "unused-variable",
   "using-constant-test",
   "useless-parent-delegation"
 ]
